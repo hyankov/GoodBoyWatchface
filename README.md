@@ -1,7 +1,7 @@
 # Good boy
 
-# Dog
+## Dog
 
-# Men's best friend
+### Men's best friend
 
 Mr Pickles tribute Amazfit watchface

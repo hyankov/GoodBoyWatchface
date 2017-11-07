@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+
+	<version>1.0</version>
+	
+
+	<id>hristoyankov.watchfaces.goodboy</id>
+
+
+	<author>Hristo Yankov</author>
+
+
+	<designer>Hristo Yankov</designer>
+
+
+	<title>Mr Pickles</title>
+
+
+	<preview>preview.png</preview>
+
+
+	<settings>false</settings>
+
+
+	<description><![CDATA[good boy. dog.]]></description>
+
+</watchfaceinfo>
